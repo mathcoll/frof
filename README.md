@@ -23,7 +23,7 @@ cleanup:        rm part_a part_b
 ## installation
 
 ```
-git clone https://github.com/j6k4m8/frof.gif
+git clone https://github.com/j6k4m8/frof.git
 cd frof
 pip3 install -e .
 ```
